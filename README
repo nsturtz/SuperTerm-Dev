@@ -7,17 +7,9 @@ FREE AND OPEN SOURCE SOFTWARE (Linux)
 ----------------------------------------------
 You may do whatever the heck you want with this software I really don't care.
 
-Changelog 0.3.0 
+Changelog 0.4.0-Dev (Build (4) 0212)
 -----------------------------------------------
-Version: 0.3.0
+Version: 0.4.0-Dev Build 40212
 
 Changes:
-There are now no dependencies (SuperDisks was removed)
-
-
-What I have planned:
-More to come in 0.4.0 make sure to put issues in the issues tab on github!
-------------------------------------------------
-I will soon be porting this software to Windows Command Line Batch (*.bat or *.cmd) so that it can be ran on Windows. For now, run it on linux or Windows with WSL!!!!!!
-Automatic update script!
-
+Ported to Windows.
