@@ -1,0 +1,1 @@
+echo Installing is not yet available for the Windows version.
